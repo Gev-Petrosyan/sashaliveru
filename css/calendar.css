@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .calentar-block {
+    max-width: 850px;
+    margin: auto;
+  }
+  
+  .fc-header-toolbar .fc-toolbar-chunk h2 {
+    text-transform: capitalize !important;
+    background-color: #1FAA71 !important;
+    color: #FFFFFF;
+    padding: 8px 25px 8px 10px;
+    border-radius: 0 20px 20px 0;
+    font-size: 20px;
+  }
+  
+  .fc-toolbar-chunk .fc-today-button {
+    background-color: green !important;
+    height: 40px;
+    font-size: 15px;
+  }
+  
+  .fc-button-group button {
+    background-color: #1FAA71 !important;
+    height: 40px;
+  }
+  
+  .calentar-block a {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .fc-day-today a {
+    color: #FFFFFF !important;
+  }
+  
+  .fc-day-today {
+    background-color: #1FAA71 !important;
+  }
+
+  .fc-scroller-harness .tournament-day {
+    background-color: orange;
+  }
+
+  .fc-scroller-harness .tournament-day a {
+    color: #FFFFFF !important;
+  }
+  
+
+  

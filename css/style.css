@@ -1,0 +1,118 @@
+header {
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+header .navabar {
+    width: 100%;
+    padding: 15px 50px;
+    background: #E86455;
+    color: #FFFFFF;
+    text-align: center;
+    height: 80px;
+}
+
+header .navabar h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 28px;
+    margin: 0;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+header .navabar h2 a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+header .navabar p {
+    font-family: 'Roboto';
+    font-style: normal;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 22px;
+    color: #FFFFFF;
+}
+
+header .tournamentsNav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    background: #3AB0E2;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+header .tournamentsNav a {
+    margin: 5px 15px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+main {
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+    padding: 0 10px;
+}
+
+.footer {
+    padding: 50px 0;
+}
+
+.footer h3 {
+    text-align: center;
+    max-width: 38rem;
+    margin: auto;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    margin-bottom: 40px;
+    padding-bottom: 5px;
+    color: #363638;
+    border-bottom: 4px solid #3AB0E2;
+    transform: rotate(0.01deg);
+}
+
+.footer table thead th {
+    width: 33.33333333333333333%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #8D8D8D;
+}
+
+.footer table tbody tr {
+    margin-bottom: 25px;
+}
+
+.footer table tbody td {
+    font-family: 'Roboto';
+    width: 33.333333333%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+
+.footer table tbody a {
+    text-decoration: none;
+    font-family: 'Roboto';
+    width: 33.333333333%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+

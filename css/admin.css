@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header nav {
+    background-color: #E86455 !important;
+}
+
+header nav a, li {
+    color: #FFFFFF !important;
+}
+
+main {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.checks .form-check {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+}
+
+main .errors {
+    color: red;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.tournaments-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tournaments-list table th, td {
+    width: 25% !important;
+    text-align: center !important;
+}
+
